@@ -7,13 +7,13 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/priyans619/My-Porfolio-1
+    git clone https://github.com/priyans619/Design-Porfolio
    ```
 
 2. Change directory to the project directory
 
     ```shell
-    cd My-Porfolio-1
+    cd Design-Porfolio
     ```
 
 3. Install the dependencies

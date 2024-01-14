@@ -14,7 +14,7 @@ function Home() {
           Priyansh B.
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Web Designer
+          I'm a Fullstack Developer
         </h2>
         <p className="text-gray-300 py-4 max-w-[630px]">
           I'm skilled in web creation and design using React, including layout using tools such as Figma. Able to provide guidance and employ agile methodologies like Scrum. Proficient in creating wireframes and flowcharts to ensure optimal user experience.For better understanding my journey and thoughts lets see my work and experience.

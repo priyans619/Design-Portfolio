@@ -19,7 +19,7 @@ function Contact() {
         <div className="max-w-[1000px] w-full gap-8 px-4">
           <div className="sm:text-left text-2xl font-bold">
             <div className="bg-slate-700 rounded-lg p-6 shadow-md">
-            <p className=" mb-4">Stashfin - Jan 2023 to Aug 2023</p>
+            <p className=" mb-4">Stashfin - Jan 2023 to Present</p>
               <h3 className="text-xl text-gray-500 font-bold mb-2">Frontend Developer</h3>
               <p className="text-xl"> 
                - Implemented an EMI loan calculator feature within the app, enabling users to easily calculate loan repayment schedules. This addition increased the app's utility and user engagement by 10%.

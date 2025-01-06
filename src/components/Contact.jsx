@@ -18,7 +18,7 @@ function Contact() {
         </div>
         <div className="max-w-[1000px] w-full gap-8 px-4">
           <div className="sm:text-left text-2xl font-bold">
-            <div className="bg-slate-700 rounded-lg p-6 shadow-md">
+            <div className="bg-slate-900 rounded-lg p-6 shadow-md border border-white">
             <p className=" mb-4">Stashfin - Jan 2023 to Present</p>
               <h3 className="text-xl text-gray-500 font-bold mb-2">Frontend Developer</h3>
               <p className="text-xl"> 
@@ -36,7 +36,7 @@ function Contact() {
 
         <div className="max-w-[1000px] w-full gap-8 px-4">
           <div className="sm:text-left text-2xl font-bold">
-            <div className="bg-slate-700 rounded-lg p-6 shadow-md">
+            <div className="bg-slate-900 rounded-lg p-6 shadow-md border border-white">
             <p className="mb-4">Utopia Global - Jan 2021 to July 2021</p>
               <h3 className=" text-gray-500 font-bold mb-2">Internship - Machine Learning</h3>
               
@@ -55,7 +55,7 @@ function Contact() {
         </div>
         <div className="max-w-[1000px] w-full gap-8 px-4">
           <div className="sm:text-left text-2xl font-bold">
-            <div className="bg-slate-700 rounded-lg p-6 shadow-md">
+            <div className="bg-slate-900 rounded-lg p-6 shadow-md border border-white">
             <p className=" mb-4">Artology.Boom - June 2020 to Dec 2022</p>
               <h3 className="text-xl text-gray-500 font-bold mb-2">Co-founder and Technical Head</h3>
               <p className="text-xl"> 

@@ -24,19 +24,19 @@ function About() {
             </p>
             <br />
 
-            <div className="bg-slate-700 rounded-lg  p-5 mb-4 shadow-md">
+            <div className="bg-black rounded-lg p-5 mb-4 shadow-md border border-white">
               <h3 className="text-x4 font-bold mb-2">IIIT Naya Raipur</h3>
-              <p className=" mb-2 text-gray-500 ">B.Tech in Computer Science and Engineering</p>
-              <p className="text-gray-500">From Aug 2017 - July 2021 
-              </p>
+              <p className="mb-2 text-gray-500">B.Tech in Computer Science and Engineering</p>
+              <p className="text-gray-500">From Aug 2017 - July 2021</p>
             </div>
-            <div className="bg-slate-700 rounded-lg p-5 mb-4 shadow-md">
+
+            <div className="bg-black rounded-lg p-5 mb-4 shadow-md border border-white">
               <h3 className="text-x4 font-bold mb-2">Brilliant Public School</h3>
               <p className="mb-4 text-gray-500">All India Senior School Certificate Examination (AISSCE)</p>
               <p className="text-gray-500">From 2014 - 2016
               </p>
             </div>
-            <div className="bg-slate-700 rounded-lg p-5 shadow-md">
+            <div className="bg-black rounded-lg p-5 shadow-md border border-white">
               <h3 className="text-x4 font-bold mb-2">Carmel Convent School</h3>
               <p className="text-gray-500 mb-4">All India Secondary School Examination (AISSE)</p>
               <p className="text-gray-500">From 2003-2014
